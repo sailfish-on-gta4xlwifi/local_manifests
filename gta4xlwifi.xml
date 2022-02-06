@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/samsung/gta4xlwifi"
+name="LineageOS/android_device_samsung_gta4xlwifi"
+revision="lineage-17.1" />
+<project path="device/samsung/gta4xl-common"
+name="LineageOS/android_device_samsung_gta4xl-common"
+revision="lineage-17.1" />
+<project path="kernel/samsung/gta4xl"
+name="sailfish-on-gta4xlwifi/android_kernel_samsung_gta4xl"
+revision="hybris-17.1" />
+<project path="device/samsung_slsi/sepolicy"
+name="LineageOS/android_device_samsung_slsi_sepolicy"
+revision="lineage-17.1" />
+<project path="hardware/samsung"
+name="LineageOS/android_hardware_samsung"
+revision="lineage-17.1" />
+<project path="hardware/samsung_slsi/libbt"
+name="LineageOS/android_hardware_samsung_slsi_libbt"
+revision="lineage-17.1" />
+<project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal"
+name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal"
+revision="lineage-17.1" />
+<project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib"
+name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib"
+revision="lineage-17.1" />
+<project path="packages/resources/devicesettings"
+name="LineageOS/android_packages_resources_devicesettings"
+revision="lineage-17.1" />
+<project path="device/samsung/gta4xlwifi/overlay-lineage"
+name="LineageOS/android_packages_overlays_Lineage"
+revision="lineage-17.1" />
+<project path="packages/apps/Email"
+name="LineageOS/android_packages_apps_Email"
+revision="lineage-17.1" />
+<project path="rpm/"
+name="sailfish-on-gta4xlwifi/droid-hal-gta4xlwifi" revision="master" />
+<project path="hybris/droid-configs"
+name="sailfish-on-gta4xlwifi/droid-config-gta4xlwifi" revision="master" />
+<project path="hybris/droid-hal-version-gta4xlwifi"
+name="sailfish-on-gta4xlwifi/droid-hal-version-gta4xlwifi" revision="master" />
+</manifest>
