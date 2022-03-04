@@ -4,8 +4,8 @@
 name="LineageOS/android_device_samsung_gta4xlwifi"
 revision="lineage-17.1" />
 <project path="device/samsung/gta4xl-common"
-name="LineageOS/android_device_samsung_gta4xl-common"
-revision="lineage-17.1" />
+name="sailfish-on-gta4xlwifi/android_device_samsung_gta4xl-common"
+revision="hybris-17.1" />
 <project path="kernel/samsung/gta4xl"
 name="sailfish-on-gta4xlwifi/android_kernel_samsung_gta4xl"
 revision="hybris-17.1" />
